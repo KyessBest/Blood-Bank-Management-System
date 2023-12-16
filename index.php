@@ -134,7 +134,7 @@
 	<footer class="page-footer font-small special-color-dark pt-4">
 		<!-- Copyright -->
 		<div class="footer-copyright text-center py-3">© <?php echo date("Y"); ?>
-		 Developed By Naseeb Bajracharya
+		 Developed BySaiPali Batch 2 Students.
 		</div>
 		<!-- Copyright -->
 
